@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/giftaway/static/css/main.46fba87e.css",
-    "main.js": "/giftaway/static/js/main.0c48b39d.js",
+    "main.js": "/giftaway/static/js/main.ab81b84d.js",
     "static/js/787.39369172.chunk.js": "/giftaway/static/js/787.39369172.chunk.js",
     "index.html": "/giftaway/index.html",
     "main.46fba87e.css.map": "/giftaway/static/css/main.46fba87e.css.map",
-    "main.0c48b39d.js.map": "/giftaway/static/js/main.0c48b39d.js.map",
+    "main.ab81b84d.js.map": "/giftaway/static/js/main.ab81b84d.js.map",
     "787.39369172.chunk.js.map": "/giftaway/static/js/787.39369172.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46fba87e.css",
-    "static/js/main.0c48b39d.js"
+    "static/js/main.ab81b84d.js"
   ]
 }
