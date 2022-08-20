@@ -17,13 +17,8 @@ function App() {
       <StyledEngineProvider>
         <Container>
 
-        <Router>
           <ResponsiveAppBar></ResponsiveAppBar>
-          <Routes>
-            <Route path="/" element={<GiftcardPage/>} />
-          </Routes>
-        </Router>
-          
+          <GiftcardPage></GiftcardPage>
         </Container>
       </StyledEngineProvider>
       
